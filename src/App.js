@@ -1,4 +1,4 @@
-import PromotionCard from './components/Promotion/Card/Card';
+import PromotionCard from 'components/Promotion/Card/Card';
 
 function App() {
   const promotion = {
